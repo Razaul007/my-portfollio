@@ -23,6 +23,13 @@
 
 }
 
+.nav-title {
+    color: #0D1321;
+    font-size: 28px;
+    font-weight: 800;
+   
+}
+
 .btn {
     display: inline-flex;
     padding: 17px 24px;
@@ -61,7 +68,7 @@
     color: #0D1321;
     text-align: center;
 
-    font-size: 42px;
+    font-size: 36px;
     font-style: normal;
     font-weight: 800;
     line-height: 50px;
@@ -98,7 +105,7 @@
 }
 
 .why-web {
-    border: 5px solid purple;
+
     display: flex;
     width: 1140px;
     margin: 50px auto;
@@ -110,7 +117,7 @@
 }
 
 .why-web-content {
-    border: 5px solid black;
+
     display: flex;
     width: 946px;
     flex-direction: column;
