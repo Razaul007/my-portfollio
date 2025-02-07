@@ -14,7 +14,7 @@ const Projects = () => {
 
                 </ul>
             </div>
-            <div className="card lg:card-side bg-base-100 shadow-xl Lg:w-5xl mx-auto ">
+            <div className="card lg:card-side bg-base-100 shadow-xl lg:w-5xl mx-auto mb-5">
 
                 <div className="card-body flex-1 gap-5">
                     <div className="p-6 bg-gray-100 rounded-lg shadow-md">
@@ -123,7 +123,7 @@ const Projects = () => {
                             <img
                                 src="https://i.ibb.co.com/4nCPqpMp/eduskills.jpg"
                                 alt="EduSkills Project Screenshot"
-                                className="rounded-lg shadow-sm"
+                                className="rounded-lg shadow-sm w-full"
                             />
                         </div>
 
@@ -220,7 +220,7 @@ const Projects = () => {
                 </div>
 
             </div>
-            <div className="card lg:card-side bg-base-100 shadow-xl lg:w-5xl mx-auto">
+            <div className="card lg:card-side bg-base-100 shadow-xl lg:w-5xl mx-auto mt-5">
 
                 <div className="card-body flex-1 gap-5">
                     <div className="p-6 bg-gray-100 rounded-lg shadow-md">
