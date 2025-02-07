@@ -101,6 +101,7 @@ const Projects = () => {
                             <h2 className="text-2xl font-semibold text-gray-800 mb-3">📖 Usage</h2>
                             <ol className="list-decimal list-inside text-gray-700">
                                 <li>Visit the website at <a href="https://dream-houzing.web.app/" className="text-blue-500 hover:underline">https://dream-houzing.web.app/</a>.</li>
+                                <li>Visit the GitHub at <a href="https://github.com/Razaul007/dream-housing-client" className="text-blue-500 hover:underline">https://github.com/Razaul007/dream-housing-client</a>.</li>
                                 <li>Register as a new user or log in.</li>
                                 <li>Browse available properties and interact with the platform based on your role (user, agent, or admin).</li>
                                 <li>Add properties to your wishlist or manage your listed properties.</li>
@@ -210,6 +211,18 @@ const Projects = () => {
                                     </a>
                                     .
                                 </li>
+                                <li>
+                                    Visit the GitHub at{' '}
+                                    <a
+                                        href="https://github.com/Razaul007/eduskill-client"
+                                        className="text-blue-500 hover:underline"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        https://github.com/Razaul007/eduskill-client
+                                    </a>
+                                    .
+                                </li>
                                 <li>Register as a new user or log in.</li>
                                 <li>Browse available courses and interact with the platform based on your role.</li>
                                 <li>Submit assignments and track your learning progress.</li>
@@ -316,6 +329,18 @@ const Projects = () => {
                                         rel="noopener noreferrer"
                                     >
                                         https://fitzoon.web.app/
+                                    </a>
+                                    .
+                                </li>
+                                <li>
+                                    Visit the GitHub at{' '}
+                                    <a
+                                        href="https://github.com/Razaul007/fitZoon-client"
+                                        className="text-blue-500 hover:underline"
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        https://github.com/Razaul007/fitZoon-client
                                     </a>
                                     .
                                 </li>
