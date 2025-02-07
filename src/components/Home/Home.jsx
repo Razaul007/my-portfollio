@@ -11,13 +11,13 @@ import Contact from '../Contact';
 const Home = () => {
     return (
         <div>
-            <Navbar/>
-            <Banner/>
-            <AboutMe/>
-            <Skills/>
-            <Projects/>
-            <Contact/>
-            <Footer/>
+            <Navbar />
+            <Banner />
+            <div id="about"><AboutMe /></div>
+            <div id="skills"><Skills /></div>
+            <div id="projects"><Projects /></div>
+            <div id="contact"><Contact /></div>
+            <Footer />
         </div>
     );
 };
